@@ -1,0 +1,35 @@
+{
+  "title": "CentOS comandos -Rep katacoda02",
+  "description": "Exercitar comandos básicos no CentOS- katacoda02",
+  "difficulty": "Beginner",
+  "time": "60 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Verificando em que diretório estamos k02",
+        "text": "step1.md"
+      },
+      {
+        "title": "Listando conteúdo do diretório k02",
+        "text": "step2.md"
+      },
+      {
+        "title": "Movendo nos diretórios k01",
+        "text": "step3.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md",
+      "courseData": "background.sh"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "centos"
+  }
+}
